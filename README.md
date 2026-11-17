@@ -35,7 +35,7 @@ cryptocurrency_price_tracker/
 
 1. Clone the repository
 
-git clone YOUR_REPOSITORY_URL
+https://github.com/pavanargowda/cryptocurrency-_price-_tracker.git
 
 2. Open the project folder
 
